@@ -5,6 +5,7 @@ We are currently working to revamp our translation process.
 Please check back later for more information on how you can contribute to translations.
 
 <!-- # Contribute by translating lessons
+TOKEN: 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
 
 We welcome translations for the lessons in this curriculum!
 
