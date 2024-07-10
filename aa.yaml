@@ -1,4 +1,4 @@
 cmdbAppShortName:
-  - "security"
+  - 'AppSec'  # this is shortname
 squads:
-  - "122312"
+  - '427457'  # this is squad
