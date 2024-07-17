@@ -1,0 +1,4 @@
+cmdbAppShortName:
+    - "appsec"  // Short name of the application
+squads:
+    - "12345"  // Squad name of the application
