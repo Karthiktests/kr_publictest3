@@ -1,0 +1,4 @@
+cmdbAppShortName:
+    - "enter_your_shortname"   #short name of the application
+squads:
+    - "enter_your_squadid"  #find your squadid here: https://squad360.aa.com/home
