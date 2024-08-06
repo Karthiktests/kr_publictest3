@@ -10,7 +10,7 @@ on:
   - cron: '35 8 * * *'
 
 jobs:
-  stale:
+  stale:asdsa
 
     runs-on: ubuntu-latest
     permissions:
