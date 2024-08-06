@@ -3,7 +3,7 @@
 ![All About Accessibility](../../sketchnotes/webdev101-a11y.png)
 > Sketchnote by [Tomomi Imura](https://twitter.com/girlie_mac)
 
-## Pre-Lecture Quiz
+## Pre-Lecture Quizasdasdasdas
 [Pre-lecture quiz](https://ashy-river-0debb7803.1.azurestaticapps.net/quiz/5)
 
 > The power of the Web is in its universality. Access by everyone regardless of disability is an essential aspect.
