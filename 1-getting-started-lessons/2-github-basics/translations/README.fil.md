@@ -8,7 +8,7 @@ Sinasaklaw ng araling ito ang mga pangunahing kaalaman ng GitHub, isang platform
 ## Pagsusulit bago ang lektura
 [Pagsusulit bago ang lektura](https://ashy-river-0debb7803.1.azurestaticapps.net/quiz/3)
 
-## Panimula
+## Panimulaasdasdas
 
 Sa araling ito, tatalakayin natin ang:
 
